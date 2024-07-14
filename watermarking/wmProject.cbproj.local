@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.06.03 22:05:09.884.cpp,C:\Users\Dmitry N. Burakov\Documents\RAD Studio\Projects\File1.cpp=C:\Users\Dmitry N. Burakov\Documents\RAD Studio\Projects\watermarking\MainFile.cpp</Transaction>
+    <Transaction>2010.06.03 22:05:20.877.cbproj,C:\Users\Dmitry N. Burakov\Documents\RAD Studio\Projects\Project2.cbproj=C:\Users\Dmitry N. Burakov\Documents\RAD Studio\Projects\watermarking\wmProject.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
