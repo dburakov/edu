@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009.12.17 16:40:10.377.cpp,C:\Users\Dmitry N. Burakov\Documents\RAD Studio\Projects\Unit1.cpp=D:\Files\Sandbox\AlenkaProject\MainUnit.cpp</Transaction>
+    <Transaction>2009.12.17 16:40:10.402.h,C:\Users\Dmitry N. Burakov\Documents\RAD Studio\Projects\Unit1.h=D:\Files\Sandbox\AlenkaProject\MainUnit.h</Transaction>
+    <Transaction>2009.12.17 16:40:10.402.dfm,C:\Users\Dmitry N. Burakov\Documents\RAD Studio\Projects\Unit1.dfm=D:\Files\Sandbox\AlenkaProject\MainUnit.dfm</Transaction>
+    <Transaction>2009.12.17 16:40:52.651.cbproj,C:\Users\Dmitry N. Burakov\Documents\RAD Studio\Projects\Project1.cbproj=D:\Files\Sandbox\AlenkaProject\EET.cbproj</Transaction>
+    <Transaction>2009.12.19 22:53:03.823.cpp,D:\Files\Sandbox\AlenkaProject\Unit1.cpp=D:\Files\Sandbox\AlenkaProject\WaitUnit.cpp</Transaction>
+    <Transaction>2009.12.19 22:53:03.823.h,D:\Files\Sandbox\AlenkaProject\Unit1.h=D:\Files\Sandbox\AlenkaProject\WaitUnit.h</Transaction>
+    <Transaction>2009.12.19 22:53:03.823.dfm,D:\Files\Sandbox\AlenkaProject\Unit1.dfm=D:\Files\Sandbox\AlenkaProject\WaitUnit.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

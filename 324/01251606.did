@@ -1,0 +1,23 @@
+# Cadence Design Systems, Inc.
+# SPECCTRA ShapeBased Automation Software Automatic Router
+# SPECCTRA ShapeBased Automation Software V15.1 made 2003/11/17 at 23:03:32
+# Running on host 
+# 
+#            Command Line Parameters
+#            -----------------------
+# Design File Name : D:\Files\Sandbox\324\Untitled1.DSN
+# No "-do" or "-docmd" switches specified on command line.
+# Status File Name : D:\Files\Sandbox\324\monitor.sts
+select_product  SPECCTRAQuest SI expert
+measure 722.122 1016.127 722.122 1016.127
+quit -c
+measure 704.85 992.378 704.85 992.378
+mode select guide
+select area guide 705.4 990.2 721.7 1016.5 toggle
+mode select comp
+select area component 718.4 1007.6 719.2 998.5 toggle
+mode copying
+edit_pick_copy 720.9 1016 721.5 1016.6
+smart_route (min_via_grid 0.01) (min_wire_grid 0.01) (auto_fanout on) (auto_fanout_via_share on) (auto_fanout_pin_share on) (auto_testpoint off) (auto_miter off)
+quit -c
+quit -c

@@ -1,0 +1,175 @@
+# Cadence Design Systems, Inc.
+# SPECCTRA ShapeBased Automation Software Automatic Router
+# SPECCTRA ShapeBased Automation Software V15.1 made 2003/11/17 at 23:03:32
+# Running on host 
+# 
+#            Command Line Parameters
+#            -----------------------
+# Design File Name : D:\Files\Sandbox\324\Untitled.DSN
+# No "-do" or "-docmd" switches specified on command line.
+# Status File Name : D:\Files\Sandbox\324\monitor.sts
+select_product  SPECCTRAQuest SI expert
+smart_route (min_via_grid 0.01) (min_wire_grid 0.01) (auto_fanout on) (auto_fanout_via_share on) (auto_fanout_pin_share on) (auto_testpoint off) (auto_miter off)
+application_mode placement
+application_mode routing
+application_mode placement
+measure 1000.24 912.3 987.298 911.6
+mode pivot 90
+select comp  U1
+relocate  0.0000  0.0000 0 180 
+unselect comp  U1
+repaint
+undo
+undo
+application_mode routing
+unselect all comp 
+select comp  U1
+relocate  0.0000  0.0000 0 0 
+unselect comp  U1
+repaint
+application_mode routing
+mode critic wire
+edit_critic_wire 1002.7 932.3 1002.7 932.3
+edit_critic_wire 1002 931.6 1002 931.6
+edit_critic_wire 998.1 940.4 1011.3 912.9
+edit_critic_wire 989.5 955.3 1014.6 905.8
+vset system Keepout off
+repaint
+edit_critic_wire 954 964.8 970 945.7
+repaint
+repaint
+zoom all
+vset system Keepout on
+repaint
+vset system Pin off
+repaint
+sset Pin on
+vset system Pin on
+repaint
+sset Keepout on
+vset system Keepout off
+repaint
+sset Keepout on
+sset Keepout on
+vset system Keepout on
+repaint
+vset system Place_error off
+repaint
+vset system Place_error on
+repaint
+vset system Place_error off
+repaint
+vset system Place_error on
+repaint
+vset system Place_error off
+repaint
+vset system Place_error on
+repaint
+vset Top off
+vset Bottom off
+repaint
+vset Top on
+vset Bottom on
+repaint
+vset Top off
+vset Bottom off
+repaint
+vset Top on
+vset Bottom on
+repaint
+vset Top off
+vset Bottom off
+repaint
+vset Top on
+vset Bottom on
+repaint
+sset Top off
+sset Top on
+vset Top off
+repaint
+vset Top on
+repaint
+edit_critic_wire 954.7 925 958.3 914.3
+edit_critic_wire 962.8 902.1 956.6 914.6
+edit_critic_wire 968.3 901.7 950.5 922.4
+edit_critic_wire 959.1 909.4 951.6 920.9
+edit_critic_wire 958.6 912.1 952.5 923.1
+edit_checking off
+edit_checking on
+edit_checking off
+edit_checking on
+edit_active_layer Bottom
+edit_critic_wire 1054.8 899 997.9 900
+edit_critic_wire 986.8 900.6 950.1 897.2
+edit_critic_wire 941.6 891.7 960 883.9
+edit_critic_wire 965.6 885.5 951.8 889.9
+edit_critic_wire 952.8 885.1 959.8 883.9
+edit_critic_wire 960.3 884.9 960.3 886.3
+edit_critic_wire 991.7 917.9 997.1 909
+edit_critic_wire 1010 906.5 997.6 913.1
+fanout 1 (direction   in_out) (location anywhere) (max_len -1)  (pin_type power) (pin_type signal)    (pin_share off) (via_share off) (smd_share off) (share_len -1)   
+seedvia 25.4 
+bus diagonal  
+critic
+smart_route (min_via_grid 0.01) (min_wire_grid 0.01) (auto_fanout on) (auto_fanout_via_share on) (auto_fanout_pin_share on) (auto_testpoint off) (auto_miter off)
+smart_route (min_via_grid 0.01) (min_wire_grid 0.01) (auto_fanout on) (auto_fanout_via_share on) (auto_fanout_pin_share on) (auto_testpoint off) (auto_miter on)
+# wirebond U1 (bond  '(Default)' )
+# ERROR: NOT EXECUTED
+smart_route (min_via_grid 0.01) (min_wire_grid 0.01) (auto_fanout on) (auto_fanout_via_share on) (auto_fanout_pin_share on) (auto_testpoint off) (auto_miter on)
+route 25  
+edit_critic_wire 981.2 934.8 978.1 931.6
+application_mode placement
+edit_critic_wire 996.4 911.7 996.4 911.7
+edit_critic_wire 1025.4 903.8 982.5 922.6
+edit_critic_wire 1000.2 912.6 983.4 907.3
+application_mode placement
+edit_critic_wire 1000.7 912.4 1000.7 912.4
+application_mode placement
+mode move comp
+edit_pick_relocate 996.1 911.6 973 909.5
+edit_relocate -36.0400 -2.8600 0 0 
+edit_pick_relocate 982 908.2 982 908.2
+edit_relocate 24.6000 -7.1000 0 0 
+check (type all)
+mode edit room
+area init_pt 945.7 972.6
+area add_pt 1070.7 890
+area close_poly
+application_mode routing
+route 25  
+route 25  
+smart_route (min_via_grid 0.01) (min_wire_grid 0.01) (auto_fanout on) (auto_fanout_via_share on) (auto_fanout_pin_share on) (auto_testpoint off) (auto_miter on)
+smart_route (min_via_grid 0.01) (min_wire_grid 0.01) (auto_fanout on) (auto_fanout_via_share on) (auto_fanout_pin_share on) (auto_testpoint off) (auto_miter on)
+area init_pt 1000.8 901.7
+area add_pt 963.9 901.7
+area add_pt 963.9 900.2
+area add_pt 976.1 900.2
+area clear
+set diagonal_mode always
+area init_pt 1005.9 899.7
+area add_pt 980.1 899.7
+area clear
+application_mode placement
+autorotate (type all )
+application_mode routing
+select all nets
+help SpecctraTut (file specctra) (online)
+check (type all)
+area init_pt 967.8 926.8
+area add_pt 967.8 959.6
+area clear
+mode select comp
+select area component 953 960.4 953 960.4 toggle
+select area component 952.8 956 965.9 925.8 toggle
+mode select comp
+mode select net
+mode select comp
+mode measure
+measure 955.2 967.5 983.742 966.7
+check_area 901.6 883.8 1115.1 978.1
+report status window
+report status window
+set soft_fence on 
+smart_route (min_via_grid 0.01) (min_wire_grid 0.01) (auto_fanout on) (auto_fanout_via_share on) (auto_fanout_pin_share on) (auto_testpoint off) (auto_miter on)
+quit -c
+quit -c

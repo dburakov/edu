@@ -1,0 +1,29 @@
+# Cadence Design Systems, Inc.
+# SPECCTRA ShapeBased Automation Software Automatic Router
+# SPECCTRA ShapeBased Automation Software V15.1 made 2003/11/17 at 23:03:32
+# Running on host 
+# 
+#            Command Line Parameters
+#            -----------------------
+# Design File Name : D:\Files\Sandbox\433\Untitled1.DSN
+# No "-do" or "-docmd" switches specified on command line.
+# Status File Name : D:\Files\Sandbox\433\monitor.sts
+select_product  PCB designer
+fanout 1 (direction   in_out) (location anywhere) (max_len -1)  (pin_type power) (pin_type signal)    (pin_share off) (via_share off) (smd_share off) (share_len -1)   
+fanout 1 (direction   in_out) (location anywhere) (max_len -1)  (pin_type power) (pin_type signal)    (pin_share off) (via_share off) (smd_share off) (share_len -1)   
+smart_route (min_via_grid 0.01) (min_wire_grid 0.01) (auto_fanout on) (auto_fanout_via_share on) (auto_fanout_pin_share on) (auto_testpoint off) (auto_miter off)
+measure 58.42 217.46374 30.353 223.52
+measure 39.9993 201.61 39.9993 201.61
+measure 106.64 198.19 96.52 204.2
+check_area 1.46 187.64 117.92 239.08
+critic
+measure 30.353 223.81 58.42 217.043
+measure 33.83 217.46374 34.85 213.48699
+define (net NET00000 (layer_rule Top ( rule (clearance 3  ))))
+set soft_fence on 
+smart_route (min_via_grid 0.01) (min_wire_grid 0.01) (auto_fanout on) (auto_fanout_via_share on) (auto_fanout_pin_share on) (auto_testpoint off) (auto_miter off)
+smart_route (min_via_grid 0.01) (min_wire_grid 0.01) (auto_fanout on) (auto_fanout_via_share on) (auto_fanout_pin_share on) (auto_testpoint off) (auto_miter off)
+measure 30.48 221.107 30.48 221.107
+measure 30.353 224.282 30.353 224.282
+quit -c
+quit -c

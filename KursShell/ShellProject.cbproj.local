@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.05.12 23:47:13.791.cpp,C:\Users\Dmitry N. Burakov\Documents\RAD Studio\Projects\Unit2.cpp=C:\Users\Dmitry N. Burakov\Documents\RAD Studio\Projects\KursShell\MainUnit.cpp</Transaction>
+    <Transaction>2010.05.12 23:47:13.791.h,C:\Users\Dmitry N. Burakov\Documents\RAD Studio\Projects\Unit2.h=C:\Users\Dmitry N. Burakov\Documents\RAD Studio\Projects\KursShell\MainUnit.h</Transaction>
+    <Transaction>2010.05.12 23:47:13.791.dfm,C:\Users\Dmitry N. Burakov\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\Dmitry N. Burakov\Documents\RAD Studio\Projects\KursShell\MainUnit.dfm</Transaction>
+    <Transaction>2010.05.12 23:47:20.112.cbproj,C:\Users\Dmitry N. Burakov\Documents\RAD Studio\Projects\Project2.cbproj=C:\Users\Dmitry N. Burakov\Documents\RAD Studio\Projects\KursShell\ShellProject.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,57 @@
+# Cadence Design Systems, Inc.
+# SPECCTRA ShapeBased Automation Software Automatic Router
+# SPECCTRA ShapeBased Automation Software V15.1 made 2003/11/17 at 23:03:32
+# Running on host 
+# 
+#            Command Line Parameters
+#            -----------------------
+# Design File Name : D:\Files\Sandbox\324\Untitled1.DSN
+# No "-do" or "-docmd" switches specified on command line.
+# Status File Name : D:\Files\Sandbox\324\monitor.sts
+select_product  SPECCTRAQuest SI expert
+smart_route (min_via_grid 0.01) (min_wire_grid 0.01) (auto_fanout on) (auto_fanout_via_share on) (auto_fanout_pin_share on) (auto_testpoint off) (auto_miter off)
+measure 777 976.122 777 976.122
+measure 665.6 1004.443 665.6 1004.443
+mode select poly_wire
+vset system Error off
+repaint
+vset system Error on
+repaint
+vset system Error off
+repaint
+vset system Error on
+repaint
+vset system Error off
+repaint
+vset system Via off
+repaint
+vset system Via on
+repaint
+vset system Via off
+repaint
+vset system Via on
+repaint
+vset system Keepout off
+repaint
+vset system Keepout on
+repaint
+vset system Keepout off
+repaint
+vset system Keepout on
+repaint
+vset system Error on
+repaint
+vset system Error off
+repaint
+mode edit region
+area init_pt 683.9 1019.7
+area add_pt 751.5 970.5
+area close_poly
+clean 5 
+smart_route (min_via_grid 0.01) (min_wire_grid 0.01) (auto_fanout on) (auto_fanout_via_share on) (auto_fanout_pin_share on) (auto_testpoint off) (auto_miter off)
+mode select poly_wire
+select area poly_wire 653.1 1023.3 785.7 964.5 toggle
+select area poly_wire 786 965.5 785.8 965.6 toggle
+select area poly_wire 782.4 968 774.3 973.4 toggle
+quit -c
+quit -c

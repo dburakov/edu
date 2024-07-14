@@ -1,0 +1,3377 @@
+# Exporting Specctra DSN file: D:\Files\Sandbox\433\Untitled1.DSN
+# 4294967295 bytes currently free.
+# Writing DSN file Parser section.
+# Writing DSN file Resolution section.
+# Writing DSN file Structure section.
+# Writing DSN file Structure section Boundaries.
+# Writing DSN file Structure section Layers.
+# Writing DSN file Structure section Keepouts.
+# Writing DSN file Structure section Grids.
+# Writing DSN file Structure section Vias.
+# Writing DSN file Placement section.
+# Writing DSN file Library section.
+# Writing DSN file Library section Images.
+# Writing DSN file Library section Padstacks.
+# Writing DSN file Network section.
+# Writing DSN file Network section Nets.
+# Writing DSN file Network section Net Classes.
+# Writing DSN file Network section Class-To-Class definitions.
+# Writing DSN file Network section Wiring.
+# Writing DSN file Wiring section Wire definitions.
+# Writing DSN file Wiring section Via definitions.
+# Writing DSN file Wiring section Testpoints.
+# 0 bytes used.
+# P-CAD to Specctra export is complete.
+# Specctra DSN file is: D:\Files\Sandbox\433\Untitled1.DSN
+# 
+# ===============================================================================
+#                     SPECCTRA ShapeBased Automation Software                    
+# Copyright 1990-2000 Cadence Design Systems, Inc.  All Rights Reserved.
+# ===============================================================================
+# 
+# Software licensed for sale by Cadence Design Systems, Inc.
+# Current time = Mon Jan 25 21:25:05 2010
+# 
+# SPECCTRA ShapeBased Automation Software V15.1 made 2003/11/17 at 23:03:32
+# Running on: burakov, OS Version: WindowsNT 6.1.7600, Architecture: Intel Pentium II
+# <<ERROR:>> Unrecognized argument: Files\Specctra\SPECCTRA\bin\sp.log
+# Orphan shapes will not be removed.
+# Licensing: The program will not obey any unlicensed rules
+# SPECCTRA ShapeBased Automation Software will quit after -do file is executed!!
+# Design Name .\Untitled1.DSN
+# Batch File Name: Untitled1.DO
+# Output Log File Name: C:\Program
+# Did File Name: .\01252125.did
+# Current time = Mon Jan 25 21:25:19 2010
+# PCB .
+# Master Unit set up as: MM 100000
+# PCB Limits xlo= 19.1770 ylo=186.8170 xhi=100.2030 yhi=239.9030
+# Via '(Default)' z=1, 2 xlo= -0.7620 ylo= -0.7620 xhi=  0.7620 yhi=  0.7620
+# Via 'CCTVIA_(Default)' z=1, 2 xlo= -0.5080 ylo= -0.5080 xhi=  0.5080 yhi=  0.5080
+# 
+#    VIA           Top              Bottom      
+# 
+#    Top  ------------------  'CCTVIA_(Default)'
+# Bottom  'CCTVIA_(Default)'  ------------------
+# 
+# Wires Processed 12, Vias Processed 3
+# Layers Processed: Signal Layers 2
+# Components Placed 1, Images Processed 1, Padstacks Processed 4
+# Nets Processed 3, Net Terminals 6
+# PCB Area= 3367.735  EIC=1  Area/EIC=3367.735  SMDs=0
+# Total Pin Count: 14
+# Unclaimed fixed wiring assigned to Net: Orphan_net
+# Signal Connections Created 2
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer Top Horz Signal Wire Grid 0.0100 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# Layer Bottom Vert Signal Wire Grid 0.0100 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- .\Untitled1.DSN
+# Nets 4 Connections 0 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 3
+# Percent Connected    0.00
+# Manhattan Length  95.2500 Horizontal  83.8200 Vertical  11.4300
+# Routed Length 312.5103 Horizontal 208.2800 Vertical 107.9500
+# Ratio Actual / Manhattan   3.2809
+# Unconnected Length  68.5800 Horizontal  58.4200 Vertical  10.1600
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Loading Do File Untitled1.DO ...
+# Diagonal wire corners are preferred.
+# Current time = Mon Jan 25 21:25:20 2010
+# 
+#    VIA           Top              Bottom      
+# 
+#    Top  ------------------  'CCTVIA_(Default)'
+# Bottom  'CCTVIA_(Default)'  ------------------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 2.5400 with offset 0.0000
+# Layer Top Horz Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# Layer Bottom Vert Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# 
+# Wiring Statistics ----------------- .\Untitled1.DSN
+# Nets 4 Connections 0 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 3
+# Percent Connected    0.00
+# Manhattan Length  95.2500 Horizontal  83.8200 Vertical  11.4300
+# Routed Length 312.5103 Horizontal 208.2800 Vertical 107.9500
+# Ratio Actual / Manhattan   3.2809
+# Unconnected Length  68.5800 Horizontal  58.4200 Vertical  10.1600
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# 90 degree wire corners are preferred.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- .\Untitled1.DSN
+# Nets 4 Connections 0 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 3
+# Percent Connected    0.00
+# Manhattan Length  95.2500 Horizontal  83.8200 Vertical  11.4300
+# Routed Length 312.5103 Horizontal 208.2800 Vertical 107.9500
+# Ratio Actual / Manhattan   3.2809
+# Unconnected Length  68.5800 Horizontal  58.4200 Vertical  10.1600
+# Current time = Mon Jan 25 21:25:21 2010
+# 
+#    VIA           Top              Bottom      
+# 
+#    Top  ------------------  'CCTVIA_(Default)'
+# Bottom  'CCTVIA_(Default)'  ------------------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 2.5400 with offset 0.0000
+# Layer Top Horz Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# Layer Bottom Vert Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# 
+# Wiring Statistics ----------------- .\Untitled1.DSN
+# Nets 4 Connections 0 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 3
+# Percent Connected    0.00
+# Manhattan Length  95.2500 Horizontal  83.8200 Vertical  11.4300
+# Routed Length 312.5103 Horizontal 208.2800 Vertical 107.9500
+# Ratio Actual / Manhattan   3.2809
+# Unconnected Length  68.5800 Horizontal  58.4200 Vertical  10.1600
+# Start Route Pass 1 of 50
+# Routing 3 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 2 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 3 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 3 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 4 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 4 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 5 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 5 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 6 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 6 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 7 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 7 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 8 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 8 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 9 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 9 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 10 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 10 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 11 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 11 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 12 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 12 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 13 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 13 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 14 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 14 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 15 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 15 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 16 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 16 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 17 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 17 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 18 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 18 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 19 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 19 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 20 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 20 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 21 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 21 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 22 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 22 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 23 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 23 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 24 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 24 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 25 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 25 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 26 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 26 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 27 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 27 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 28 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 28 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 29 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 29 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 30 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 30 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 31 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 31 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 32 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 32 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 33 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 33 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 34 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 34 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 35 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 35 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 36 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 36 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 37 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 37 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 38 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 38 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 39 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 39 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 40 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 40 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 41 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 41 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 42 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 42 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 43 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 43 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 44 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 44 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 45 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 45 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 46 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 46 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 47 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 47 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 48 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 48 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 49 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 49 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 50 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 50 of 50
+# Wiring Written to File .\best.w
+# Cpu Time = 0:00:02  Elapsed Time = 0:00:11
+# 
+# Design Rules --------------------------------------------
+# Via Grid 2.5400 with offset 0.0000
+# Layer Top Horz Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# Layer Bottom Vert Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  3|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  4|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  5|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  6|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  7|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  8|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  9|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 10|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 11|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 12|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 13|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 14|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 15|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 16|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 17|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 18|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 19|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 20|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 21|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 22|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 23|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 24|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 25|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 26|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 27|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 28|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 29|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 30|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 31|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 32|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 33|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 34|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 35|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 36|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 37|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 38|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 39|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 40|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 41|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 42|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 43|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 44|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 45|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    | 46|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 47|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 48|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 49|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 50|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger):   0
+# Overall Routing Time: 0:00:01
+# 
+# Wiring Statistics ----------------- .\Untitled1.DSN
+# Nets 4 Connections 0 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 3
+# Percent Connected    0.00
+# Manhattan Length  95.2500 Horizontal  83.8200 Vertical  11.4300
+# Routed Length 312.5103 Horizontal 208.2800 Vertical 107.9500
+# Ratio Actual / Manhattan   3.2809
+# Unconnected Length  68.5800 Horizontal  58.4200 Vertical  10.1600
+# Current time = Mon Jan 25 21:25:32 2010
+# 
+#    VIA           Top              Bottom      
+# 
+#    Top  ------------------  'CCTVIA_(Default)'
+# Bottom  'CCTVIA_(Default)'  ------------------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 2.5400 with offset 0.0000
+# Layer Top Horz Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# Layer Bottom Vert Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# 
+# Wiring Statistics ----------------- .\Untitled1.DSN
+# Nets 4 Connections 0 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 3
+# Percent Connected    0.00
+# Manhattan Length  95.2500 Horizontal  83.8200 Vertical  11.4300
+# Routed Length 312.5103 Horizontal 208.2800 Vertical 107.9500
+# Ratio Actual / Manhattan   3.2809
+# Unconnected Length  68.5800 Horizontal  58.4200 Vertical  10.1600
+# Start Clean Pass 1 of 4
+# Routing 3 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 1 of 4
+# Wiring Written to File .\best.w
+# Start Clean Pass 2 of 4
+# Routing 3 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 4
+# Wiring Written to File .\best.w
+# Start Clean Pass 3 of 4
+# Routing 3 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 3 of 4
+# Wiring Written to File .\best.w
+# Start Clean Pass 4 of 4
+# Routing 3 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 4 of 4
+# Wiring Written to File .\best.w
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# 
+# Design Rules --------------------------------------------
+# Via Grid 2.5400 with offset 0.0000
+# Layer Top Horz Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# Layer Bottom Vert Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  3|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  4|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  5|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  6|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  7|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  8|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  9|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 10|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 11|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 12|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 13|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 14|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 15|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 16|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 17|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 18|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 19|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 20|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 21|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 22|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 23|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 24|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 25|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 26|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 27|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 28|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 29|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 30|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 31|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 32|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 33|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 34|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 35|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 36|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 37|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 38|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 39|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 40|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 41|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 42|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 43|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 44|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 45|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    | 46|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 47|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 48|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 49|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 50|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Clean    | 51|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 52|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 53|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 54|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger):   0
+# Overall Routing Time: 0:00:01
+# 
+# Wiring Statistics ----------------- .\Untitled1.DSN
+# Nets 4 Connections 0 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 3
+# Percent Connected    0.00
+# Manhattan Length  95.2500 Horizontal  83.8200 Vertical  11.4300
+# Routed Length 312.5103 Horizontal 208.2800 Vertical 107.9500
+# Ratio Actual / Manhattan   3.2809
+# Unconnected Length  68.5800 Horizontal  58.4200 Vertical  10.1600
+# Current time = Mon Jan 25 21:25:33 2010
+# 
+#    VIA           Top              Bottom      
+# 
+#    Top  ------------------  'CCTVIA_(Default)'
+# Bottom  'CCTVIA_(Default)'  ------------------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 2.5400 with offset 0.0000
+# Layer Top Horz Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# Layer Bottom Vert Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# 
+# Wiring Statistics ----------------- .\Untitled1.DSN
+# Nets 4 Connections 0 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 3
+# Percent Connected    0.00
+# Manhattan Length  95.2500 Horizontal  83.8200 Vertical  11.4300
+# Routed Length 312.5103 Horizontal 208.2800 Vertical 107.9500
+# Ratio Actual / Manhattan   3.2809
+# Unconnected Length  68.5800 Horizontal  58.4200 Vertical  10.1600
+# Start Route Pass 1 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 2 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 3 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 3 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 4 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 4 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 5 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 5 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 6 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 6 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 7 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 7 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 8 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 8 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 9 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 9 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 10 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 10 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 11 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 11 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 12 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 12 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 13 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 13 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 14 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 14 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 15 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 15 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 16 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 16 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 17 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 17 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 18 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 18 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 19 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 19 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 20 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 20 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 21 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 21 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 22 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 22 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 23 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 23 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 24 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 24 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 25 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 25 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 26 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 26 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 27 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 27 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 28 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 28 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 29 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 29 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 30 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 30 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 31 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 31 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 32 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 32 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 33 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 33 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 34 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 34 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 35 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 35 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 36 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 36 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 37 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 37 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 38 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 38 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 39 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 39 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 40 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 40 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 41 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 41 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 42 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 42 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 43 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 43 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 44 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 44 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 45 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 45 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 46 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 46 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 47 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 47 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 48 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 48 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 49 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 49 of 50
+# Wiring Written to File .\best.w
+# Start Route Pass 50 of 50
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 50 of 50
+# Wiring Written to File .\best.w
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:12
+# 
+# Design Rules --------------------------------------------
+# Via Grid 2.5400 with offset 0.0000
+# Layer Top Horz Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# Layer Bottom Vert Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  3|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  4|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  5|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  6|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  7|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  8|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  9|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 10|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 11|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 12|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 13|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 14|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 15|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 16|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 17|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 18|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 19|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 20|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 21|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 22|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 23|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 24|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 25|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 26|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 27|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 28|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 29|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 30|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 31|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 32|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 33|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 34|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 35|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 36|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 37|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 38|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 39|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 40|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 41|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 42|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 43|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 44|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 45|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    | 46|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 47|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 48|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 49|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 50|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Clean    | 51|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 52|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 53|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 54|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+# Route    | 55|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 56|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 57|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 58|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 59|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 60|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 61|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 62|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 63|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 64|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 65|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 66|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 67|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 68|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 69|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 70|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 71|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 72|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 73|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 74|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 75|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 76|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 77|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 78|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:01|  0:00:02|
+# Route    | 79|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 80|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 81|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 82|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 83|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 84|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 85|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 86|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 87|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 88|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 89|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 90|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 91|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 92|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 93|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 94|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 95|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 96|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 97|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 98|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 99|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |100|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |101|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |102|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |103|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |104|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger):   0
+# Overall Routing Time: 0:00:02
+# 
+# Wiring Statistics ----------------- .\Untitled1.DSN
+# Nets 4 Connections 0 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 3
+# Percent Connected    0.00
+# Manhattan Length  95.2500 Horizontal  83.8200 Vertical  11.4300
+# Routed Length 312.5103 Horizontal 208.2800 Vertical 107.9500
+# Ratio Actual / Manhattan   3.2809
+# Unconnected Length  68.5800 Horizontal  58.4200 Vertical  10.1600
+# Current time = Mon Jan 25 21:25:46 2010
+# 
+#    VIA           Top              Bottom      
+# 
+#    Top  ------------------  'CCTVIA_(Default)'
+# Bottom  'CCTVIA_(Default)'  ------------------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 2.5400 with offset 0.0000
+# Layer Top Horz Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# Layer Bottom Vert Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# 
+# Wiring Statistics ----------------- .\Untitled1.DSN
+# Nets 4 Connections 0 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 3
+# Percent Connected    0.00
+# Manhattan Length  95.2500 Horizontal  83.8200 Vertical  11.4300
+# Routed Length 312.5103 Horizontal 208.2800 Vertical 107.9500
+# Ratio Actual / Manhattan   3.2809
+# Unconnected Length  68.5800 Horizontal  58.4200 Vertical  10.1600
+# Start Clean Pass 1 of 4
+# Routing 3 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 4
+# Wiring Written to File .\best.w
+# Start Clean Pass 2 of 4
+# Routing 3 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 4
+# Wiring Written to File .\best.w
+# Start Clean Pass 3 of 4
+# Routing 3 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 3 of 4
+# Wiring Written to File .\best.w
+# Start Clean Pass 4 of 4
+# Routing 3 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 4 of 4
+# Wiring Written to File .\best.w
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# 
+# Design Rules --------------------------------------------
+# Via Grid 2.5400 with offset 0.0000
+# Layer Top Horz Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# Layer Bottom Vert Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  3|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  4|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  5|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  6|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  7|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  8|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  9|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 10|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 11|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 12|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 13|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 14|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 15|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 16|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 17|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 18|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 19|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 20|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 21|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 22|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 23|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 24|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 25|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 26|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 27|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 28|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 29|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 30|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 31|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 32|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 33|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 34|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 35|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 36|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 37|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 38|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 39|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 40|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 41|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 42|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 43|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 44|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 45|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    | 46|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 47|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 48|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 49|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 50|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Clean    | 51|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 52|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 53|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 54|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+# Route    | 55|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 56|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 57|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 58|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 59|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 60|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 61|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 62|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 63|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 64|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 65|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 66|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 67|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 68|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 69|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 70|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 71|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 72|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 73|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 74|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 75|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 76|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 77|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 78|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:01|  0:00:02|
+# Route    | 79|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 80|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 81|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 82|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 83|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 84|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 85|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 86|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 87|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 88|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 89|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 90|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 91|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 92|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 93|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 94|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 95|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 96|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 97|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 98|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 99|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |100|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |101|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |102|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |103|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |104|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Clean    |105|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:02|
+# Clean    |106|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:02|
+# Clean    |107|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:02|
+# Clean    |108|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:02|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger):   0
+# Overall Routing Time: 0:00:02
+# 
+# Wiring Statistics ----------------- .\Untitled1.DSN
+# Nets 4 Connections 0 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 3
+# Percent Connected    0.00
+# Manhattan Length  95.2500 Horizontal  83.8200 Vertical  11.4300
+# Routed Length 312.5103 Horizontal 208.2800 Vertical 107.9500
+# Ratio Actual / Manhattan   3.2809
+# Unconnected Length  68.5800 Horizontal  58.4200 Vertical  10.1600
+# Current time = Mon Jan 25 21:25:47 2010
+# 
+#    VIA           Top              Bottom      
+# 
+#    Top  ------------------  'CCTVIA_(Default)'
+# Bottom  'CCTVIA_(Default)'  ------------------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 2.5400 with offset 0.0000
+# Layer Top Horz Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# Layer Bottom Vert Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# 
+# Wiring Statistics ----------------- .\Untitled1.DSN
+# Nets 4 Connections 0 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 3
+# Percent Connected    0.00
+# Manhattan Length  95.2500 Horizontal  83.8200 Vertical  11.4300
+# Routed Length 312.5103 Horizontal 208.2800 Vertical 107.9500
+# Ratio Actual / Manhattan   3.2809
+# Unconnected Length  68.5800 Horizontal  58.4200 Vertical  10.1600
+# Start Filter Pass 1 of 5
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 5
+# Wiring Written to File .\best.w
+# Start Filter Pass 2 of 5
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 5
+# Wiring Written to File .\best.w
+# Start Filter Pass 3 of 5
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 3 of 5
+# Wiring Written to File .\best.w
+# Start Filter Pass 4 of 5
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 4 of 5
+# Wiring Written to File .\best.w
+# Start Filter Pass 5 of 5
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 5 of 5
+# Wiring Written to File .\best.w
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:02
+# 
+# Design Rules --------------------------------------------
+# Via Grid 2.5400 with offset 0.0000
+# Layer Top Horz Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# Layer Bottom Vert Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  3|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  4|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  5|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  6|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  7|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  8|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  9|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 10|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 11|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 12|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 13|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 14|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 15|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 16|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 17|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 18|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 19|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 20|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 21|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 22|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 23|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 24|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 25|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 26|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 27|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 28|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 29|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 30|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 31|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 32|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 33|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 34|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 35|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 36|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 37|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 38|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 39|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 40|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 41|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 42|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 43|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 44|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 45|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    | 46|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 47|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 48|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 49|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 50|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Clean    | 51|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 52|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 53|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 54|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+# Route    | 55|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 56|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 57|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 58|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 59|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 60|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 61|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 62|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 63|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 64|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 65|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 66|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 67|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 68|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 69|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 70|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 71|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 72|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 73|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 74|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 75|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 76|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 77|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 78|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:01|  0:00:02|
+# Route    | 79|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 80|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 81|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 82|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 83|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 84|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 85|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 86|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 87|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 88|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 89|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 90|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 91|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 92|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 93|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 94|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 95|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 96|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 97|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 98|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 99|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |100|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |101|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |102|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |103|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |104|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Clean    |105|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:02|
+# Clean    |106|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:02|
+# Clean    |107|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:02|
+# Clean    |108|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:02|
+# Filter   |109|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Filter   |110|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Filter   |111|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Filter   |112|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:01|  0:00:03|
+# Filter   |113|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger):   0
+# Overall Routing Time: 0:00:03
+# 
+# Wiring Statistics ----------------- .\Untitled1.DSN
+# Nets 4 Connections 0 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 3
+# Percent Connected    0.00
+# Manhattan Length  95.2500 Horizontal  83.8200 Vertical  11.4300
+# Routed Length 312.5103 Horizontal 208.2800 Vertical 107.9500
+# Ratio Actual / Manhattan   3.2809
+# Unconnected Length  68.5800 Horizontal  58.4200 Vertical  10.1600
+# Current time = Mon Jan 25 21:25:49 2010
+# 
+#    VIA           Top              Bottom      
+# 
+#    Top  ------------------  'CCTVIA_(Default)'
+# Bottom  'CCTVIA_(Default)'  ------------------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 2.5400 with offset 0.0000
+# Layer Top Horz Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# Layer Bottom Vert Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# 
+# Wiring Statistics ----------------- .\Untitled1.DSN
+# Nets 4 Connections 0 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 3
+# Percent Connected    0.00
+# Manhattan Length  95.2500 Horizontal  83.8200 Vertical  11.4300
+# Routed Length 312.5103 Horizontal 208.2800 Vertical 107.9500
+# Ratio Actual / Manhattan   3.2809
+# Unconnected Length  68.5800 Horizontal  58.4200 Vertical  10.1600
+# Start Route Pass 1 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 2 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 3 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 3 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 4 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 4 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 5 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 5 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 6 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 6 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 7 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 7 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 8 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 8 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 9 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 9 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 10 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 10 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 11 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 11 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 12 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 12 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 13 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 13 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 14 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 14 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 15 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 15 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 16 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 16 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 17 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 17 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 18 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 18 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 19 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 19 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 20 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 20 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 21 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 21 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 22 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 22 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 23 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 23 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 24 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 24 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 25 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 25 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 26 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 26 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 27 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 27 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 28 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 28 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 29 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 29 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 30 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 30 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 31 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 31 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 32 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# End Pass 32 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 33 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 33 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 34 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 34 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 35 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 35 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 36 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 36 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 37 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 37 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 38 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 38 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 39 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 39 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 40 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 40 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 41 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 41 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 42 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 42 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 43 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 43 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 44 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 44 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 45 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 45 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 46 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 46 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 47 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 47 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 48 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 48 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 49 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 49 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 50 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 50 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 51 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 51 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 52 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 52 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 53 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 53 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 54 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 54 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 55 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 55 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 56 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 56 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 57 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 57 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 58 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 58 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 59 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 59 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 60 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 60 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 61 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 61 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 62 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 62 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 63 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 63 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 64 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 64 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 65 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 65 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 66 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 66 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 67 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 67 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 68 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 68 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 69 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 69 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 70 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 70 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 71 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 71 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 72 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 72 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 73 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 73 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 74 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 74 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 75 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 75 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 76 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 76 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 77 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 77 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 78 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 78 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 79 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 79 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 80 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 80 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 81 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 81 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 82 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 82 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 83 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 83 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 84 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 84 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 85 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 85 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 86 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 86 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 87 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 87 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 88 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 88 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 89 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 89 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 90 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 90 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 91 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 91 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 92 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 92 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 93 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 93 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 94 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 94 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 95 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 95 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 96 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 96 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 97 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 97 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 98 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 98 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 99 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 99 of 100
+# Wiring Written to File .\best.w
+# Start Route Pass 100 of 100
+# Routing 2 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 100 of 100
+# Wiring Written to File .\best.w
+# Cpu Time = 0:00:02  Elapsed Time = 0:00:24
+# 
+# Design Rules --------------------------------------------
+# Via Grid 2.5400 with offset 0.0000
+# Layer Top Horz Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# Layer Bottom Vert Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  3|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  4|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  5|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  6|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  7|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  8|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  9|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 10|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 11|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 12|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 13|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 14|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 15|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 16|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 17|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 18|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 19|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 20|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 21|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 22|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 23|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 24|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 25|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 26|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 27|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 28|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 29|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 30|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 31|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 32|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 33|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 34|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 35|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 36|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 37|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 38|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 39|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 40|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 41|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 42|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 43|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 44|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 45|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    | 46|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 47|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 48|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 49|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 50|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Clean    | 51|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 52|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 53|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 54|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+# Route    | 55|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 56|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 57|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 58|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 59|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 60|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 61|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 62|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 63|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 64|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 65|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 66|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 67|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 68|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 69|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 70|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 71|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 72|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 73|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 74|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 75|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 76|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 77|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 78|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:01|  0:00:02|
+# Route    | 79|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 80|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 81|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 82|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 83|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 84|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 85|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 86|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 87|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 88|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 89|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 90|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 91|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 92|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 93|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 94|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 95|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 96|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 97|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 98|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 99|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |100|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |101|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |102|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |103|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |104|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Clean    |105|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:02|
+# Clean    |106|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:02|
+# Clean    |107|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:02|
+# Clean    |108|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:02|
+# Filter   |109|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Filter   |110|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Filter   |111|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Filter   |112|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:01|  0:00:03|
+# Filter   |113|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |114|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |115|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |116|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |117|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |118|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |119|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |120|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |121|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |122|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |123|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |124|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |125|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |126|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |127|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |128|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |129|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |130|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |131|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |132|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |133|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |134|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |135|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |136|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |137|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |138|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |139|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |140|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |141|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |142|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |143|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |144|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |145|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:01|  0:00:04|
+# Route    |146|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |147|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |148|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |149|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |150|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |151|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |152|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |153|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |154|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |155|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |156|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |157|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |158|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |159|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |160|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |161|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |162|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |163|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |164|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |165|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |166|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |167|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |168|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |169|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |170|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |171|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |172|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |173|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |174|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |175|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |176|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |177|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |178|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |179|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |180|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |181|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |182|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |183|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |184|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |185|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |186|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |187|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |188|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |189|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |190|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |191|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |192|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |193|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |194|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |195|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |196|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |197|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |198|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |199|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |200|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |201|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |202|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |203|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |204|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |205|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |206|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |207|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |208|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |209|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |210|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |211|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |212|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |213|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger):   0
+# Overall Routing Time: 0:00:04
+# 
+# Wiring Statistics ----------------- .\Untitled1.DSN
+# Nets 4 Connections 0 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 3
+# Percent Connected    0.00
+# Manhattan Length  95.2500 Horizontal  83.8200 Vertical  11.4300
+# Routed Length 312.5103 Horizontal 208.2800 Vertical 107.9500
+# Ratio Actual / Manhattan   3.2809
+# Unconnected Length  68.5800 Horizontal  58.4200 Vertical  10.1600
+# Current time = Mon Jan 25 21:26:13 2010
+# 
+#    VIA           Top              Bottom      
+# 
+#    Top  ------------------  'CCTVIA_(Default)'
+# Bottom  'CCTVIA_(Default)'  ------------------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 2.5400 with offset 0.0000
+# Layer Top Horz Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# Layer Bottom Vert Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# 
+# Wiring Statistics ----------------- .\Untitled1.DSN
+# Nets 4 Connections 0 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 3
+# Percent Connected    0.00
+# Manhattan Length  95.2500 Horizontal  83.8200 Vertical  11.4300
+# Routed Length 312.5103 Horizontal 208.2800 Vertical 107.9500
+# Ratio Actual / Manhattan   3.2809
+# Unconnected Length  68.5800 Horizontal  58.4200 Vertical  10.1600
+# Start Clean Pass 1 of 2
+# Routing 3 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 2
+# Wiring Written to File .\best.w
+# Start Clean Pass 2 of 2
+# Routing 3 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 2
+# Attempts 0 Successes 0 Failures 0 Vias 3
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 2 of 2
+# Wiring Written to File .\best.w
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# 
+# Design Rules --------------------------------------------
+# Via Grid 2.5400 with offset 0.0000
+# Layer Top Horz Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# Layer Bottom Vert Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Bus      |  0|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:00|
+# Route    |  1|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  3|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  4|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  5|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  6|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  7|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  8|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  9|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 10|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 11|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 12|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 13|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 14|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 15|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 16|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 17|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 18|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 19|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 20|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 21|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 22|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 23|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 24|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 25|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 26|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 27|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 28|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 29|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 30|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 31|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 32|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 33|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 34|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 35|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 36|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 37|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 38|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 39|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 40|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 41|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 42|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 43|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 44|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    | 45|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    | 46|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 47|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 48|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 49|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 50|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Clean    | 51|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 52|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 53|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+# Clean    | 54|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+# Route    | 55|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 56|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 57|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 58|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 59|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 60|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 61|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 62|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 63|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 64|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 65|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 66|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 67|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 68|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 69|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 70|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 71|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 72|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 73|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 74|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 75|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 76|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 77|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+# Route    | 78|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:01|  0:00:02|
+# Route    | 79|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 80|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 81|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 82|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 83|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 84|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 85|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 86|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 87|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 88|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 89|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 90|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 91|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 92|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 93|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 94|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 95|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 96|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 97|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 98|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    | 99|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |100|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |101|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |102|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |103|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Route    |104|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Clean    |105|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:02|
+# Clean    |106|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:02|
+# Clean    |107|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:02|
+# Clean    |108|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:02|
+# Filter   |109|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Filter   |110|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Filter   |111|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+# Filter   |112|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:01|  0:00:03|
+# Filter   |113|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |114|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |115|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |116|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |117|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |118|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |119|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |120|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |121|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |122|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |123|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |124|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |125|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |126|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |127|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |128|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |129|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |130|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |131|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |132|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |133|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |134|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |135|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |136|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |137|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |138|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |139|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |140|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |141|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |142|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |143|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |144|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    |145|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:01|  0:00:04|
+# Route    |146|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |147|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |148|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |149|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |150|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |151|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |152|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |153|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |154|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |155|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |156|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |157|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |158|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |159|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |160|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |161|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |162|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |163|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |164|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |165|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |166|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |167|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |168|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |169|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |170|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |171|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |172|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |173|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |174|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |175|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |176|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |177|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |178|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |179|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |180|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |181|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |182|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |183|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |184|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |185|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |186|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |187|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |188|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |189|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |190|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |191|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |192|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |193|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |194|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |195|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |196|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |197|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |198|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |199|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |200|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |201|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |202|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |203|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |204|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |205|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |206|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |207|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |208|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |209|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |210|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |211|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |212|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Route    |213|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+# Clean    |214|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:04|
+# Clean    |215|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:04|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger):   0
+# Overall Routing Time: 0:00:04
+# 
+# Wiring Statistics ----------------- .\Untitled1.DSN
+# Nets 4 Connections 0 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 3
+# Percent Connected    0.00
+# Manhattan Length  95.2500 Horizontal  83.8200 Vertical  11.4300
+# Routed Length 312.5103 Horizontal 208.2800 Vertical 107.9500
+# Ratio Actual / Manhattan   3.2809
+# Unconnected Length  68.5800 Horizontal  58.4200 Vertical  10.1600
+# Current time = Mon Jan 25 21:26:14 2010
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- .\Untitled1.DSN
+# Nets 4 Connections 0 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 3
+# Percent Connected    0.00
+# Manhattan Length  95.2500 Horizontal  83.8200 Vertical  11.4300
+# Routed Length 312.5103 Horizontal 208.2800 Vertical 107.9500
+# Ratio Actual / Manhattan   3.2809
+# Unconnected Length  68.5800 Horizontal  58.4200 Vertical  10.1600
+# Wiring Written to File .\Untitled1.w
+# Current time = Mon Jan 25 21:26:14 2010
+# 
+#    VIA           Top              Bottom      
+# 
+#    Top  ------------------  'CCTVIA_(Default)'
+# Bottom  'CCTVIA_(Default)'  ------------------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 2.5400 with offset 0.0000
+# Layer Top Horz Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# Layer Bottom Vert Signal Wire Grid 2.5400 with offset 0.0000, Width= 0.2540, Clearance= 0.3000
+# 
+# Wiring Statistics ----------------- .\Untitled1.DSN
+# Nets 4 Connections 0 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 3
+# Percent Connected    0.00
+# Manhattan Length  95.2500 Horizontal  83.8200 Vertical  11.4300
+# Routed Length 312.5103 Horizontal 208.2800 Vertical 107.9500
+# Ratio Actual / Manhattan   3.2809
+# Unconnected Length  68.5800 Horizontal  58.4200 Vertical  10.1600
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- .\Untitled1.DSN
+# Nets 4 Connections 0 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 3
+# Percent Connected    0.00
+# Manhattan Length  95.2500 Horizontal  83.8200 Vertical  11.4300
+# Routed Length 312.5103 Horizontal 208.2800 Vertical 107.9500
+# Ratio Actual / Manhattan   3.2809
+# Unconnected Length  68.5800 Horizontal  58.4200 Vertical  10.1600
+# Diagonal wire corners are preferred.
+# Current time = Mon Jan 25 21:26:15 2010
+# Convert orthogonal pin exit to diagonal...
+# Convert wire segment to diagonal...
+# Convert orthogonal corner to diagonal...
+# Corners changed 0
+# 90 degree wire corners are preferred.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- .\Untitled1.DSN
+# Nets 4 Connections 0 Unroutes 2
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 3
+# Percent Connected    0.00
+# Manhattan Length  95.2500 Horizontal  83.8200 Vertical  11.4300
+# Routed Length 312.5103 Horizontal 208.2800 Vertical 107.9500
+# Ratio Actual / Manhattan   3.2809
+# Unconnected Length  68.5800 Horizontal  58.4200 Vertical  10.1600
+# Wiring Written to File .\Untitled1.m
+# Session Files Saved as .\Untitled1.ses
+# Report Written to File .\Untitled1.sts
+#SPECCTRA ShapeBased Automation Software V15.1 made 2003/11/17 at 23:03:32
+#Host 
+#ROUTING STATUS <<< .\Untitled1.DSN >>>
+Start  Time: Report Time: Mon Jan 25 21:26:15 2010
+
+Nets         =        4   Connections         =        0
+Current Wire =        0   Reroute wires       =        0
+Completion   =    0.00%   Unconnections       =        2
+| ROUTING HISTORY ================================================================
+|     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+|   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+|----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+| Bus      |  0|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:00|
+| Route    |  1|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    |  2|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    |  3|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    |  4|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    |  5|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    |  6|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    |  7|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    |  8|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    |  9|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 10|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 11|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 12|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 13|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 14|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 15|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 16|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 17|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 18|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 19|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 20|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 21|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 22|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 23|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 24|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 25|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 26|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 27|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 28|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 29|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 30|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 31|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 32|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 33|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 34|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 35|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 36|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 37|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 38|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 39|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 40|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 41|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 42|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 43|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 44|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    | 45|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:01|  0:00:01|
+| Route    | 46|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 47|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 48|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 49|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 50|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Clean    | 51|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+| Clean    | 52|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+| Clean    | 53|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+| Clean    | 54|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:01|
+| Route    | 55|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 56|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 57|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 58|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 59|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 60|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 61|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 62|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 63|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 64|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 65|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 66|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 67|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 68|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 69|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 70|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 71|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 72|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 73|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 74|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 75|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 76|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 77|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:01|
+| Route    | 78|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:01|  0:00:02|
+| Route    | 79|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    | 80|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    | 81|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    | 82|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    | 83|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    | 84|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    | 85|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    | 86|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    | 87|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    | 88|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    | 89|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    | 90|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    | 91|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    | 92|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    | 93|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    | 94|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    | 95|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    | 96|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    | 97|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    | 98|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    | 99|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    |100|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    |101|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    |102|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    |103|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Route    |104|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Clean    |105|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:02|
+| Clean    |106|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:02|
+| Clean    |107|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:02|
+| Clean    |108|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:02|
+| Filter   |109|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Filter   |110|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Filter   |111|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:02|
+| Filter   |112|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:01|  0:00:03|
+| Filter   |113|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |114|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |115|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |116|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |117|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |118|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |119|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |120|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |121|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |122|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |123|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |124|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |125|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |126|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |127|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |128|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |129|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |130|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |131|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |132|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |133|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |134|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |135|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |136|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |137|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |138|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |139|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |140|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |141|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |142|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |143|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |144|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:03|
+| Route    |145|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:01|  0:00:04|
+| Route    |146|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |147|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |148|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |149|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |150|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |151|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |152|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |153|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |154|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |155|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |156|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |157|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |158|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |159|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |160|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |161|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |162|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |163|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |164|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |165|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |166|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |167|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |168|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |169|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |170|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |171|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |172|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |173|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |174|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |175|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |176|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |177|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |178|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |179|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |180|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |181|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |182|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |183|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |184|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |185|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |186|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |187|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |188|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |189|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |190|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |191|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |192|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |193|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |194|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |195|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |196|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |197|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |198|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |199|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |200|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |201|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |202|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |203|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |204|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |205|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |206|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |207|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |208|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |209|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |210|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |211|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |212|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Route    |213|     0|     0|   0|    2|    3|    0|   0|  0|  0:00:00|  0:00:04|
+| Clean    |214|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:04|
+| Clean    |215|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:04|
+| Delete   |215|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:04|
+| Spread   |215|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:04|
+| Miter    |215|     0|     0|   0|    2|    3|    0|   0|   |  0:00:00|  0:00:04|
+| Conflicts between polygon wires and fixed objects:   0
+#
+# Importing SES file D:\Files\Sandbox\433\Untitled1.ses
+# into current P-CAD PCB design.
+# Parsing session file.
+# Parsing routes section.
+# Parsing resolution section.
+# Parsing parser section.
+# Parsing network output section.
+# Parsing net section for net NET00000.
+# Parsing net section for net NET00001.
+# Parsing net section for net NET00002.
+# Parsing net section for net Orphan_net.
+# Parsing test points section.
+# Updating current design component placement and routes.
+# Removing existing routes, test points, and their associated dimensions from current design.
+# No component placement locations modified. No placement updates required.
+# Adding routes to net NET00000.
+# Adding routes to net NET00001.
+# Adding routes to net NET00002.
+# Adding non-net geometry.
+# SES file successfully imported into current P-CAD PCB design.

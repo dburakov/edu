@@ -1,0 +1,239 @@
+(PCB D:\Files\Sandbox\324\Untitled1.DSN
+ (parser
+  (host_cad Altium)
+  (host_version 18.00)
+  (string_quote ')
+  (routes_include testpoint)
+  (constant Top 1)
+  (constant Bottom 2)
+  (constant TestPointLayerNumFront 10)
+  (constant TestPointLayerNumBack 11)
+ )
+ (resolution MM 100000)
+ (structure 
+  (rule (clearance 0.3048))
+  (boundary
+   (rect pcb 679.704 964.184 757.936 1024.636)
+  )
+  (boundary
+   (path signal 0
+    683.26 1021.08 683.26 967.74 754.38 967.74 754.38 1021.08 683.26 1021.08
+   )
+  )
+  (layer Top
+   (type signal)
+   (rule (clearance 0.3048))
+  )
+  (layer Bottom
+   (type signal)
+   (rule (clearance 0.3048))
+  )
+  (grid via .01)
+  (grid wire .01)
+  (rule (width 0.254))
+  (via
+   'CCTVIA_(Default)'
+   (spare
+    '(Default)'
+   )
+  )
+ )
+ (placement
+  (component SN74ALS112AN_1
+   (place U2 708.66 988.06 front 0
+   )
+  )
+ )
+ (library
+  (image SN74ALS112AN_1
+   (outline (rect Top -9.94999 -2.75001 9.94999 2.75001))
+   (pin P:SX59Y59D351 1 -8.89 -3.81 (rotate 90.0))
+   (pin P:EX59Y59D351 10 6.35 3.81 (rotate 90.0))
+   (pin P:EX59Y59D351 11 3.81 3.81 (rotate 90.0))
+   (pin P:EX59Y59D351 12 1.27 3.81 (rotate 90.0))
+   (pin P:EX59Y59D351 13 -1.27 3.81 (rotate 90.0))
+   (pin P:EX59Y59D351 14 -3.81 3.81 (rotate 90.0))
+   (pin P:EX59Y59D351 15 -6.35 3.81 (rotate 90.0))
+   (pin P:EX59Y59D351 16 -8.89 3.81 (rotate 90.0))
+   (pin P:EX59Y59D351 2 -6.35 -3.81 (rotate 90.0))
+   (pin P:EX59Y59D351 3 -3.81 -3.81 (rotate 90.0))
+   (pin P:EX59Y59D351 4 -1.27 -3.81 (rotate 90.0))
+   (pin P:EX59Y59D351 5 1.27 -3.81 (rotate 90.0))
+   (pin P:EX59Y59D351 6 3.81 -3.81 (rotate 90.0))
+   (pin P:EX59Y59D351 7 6.35 -3.81 (rotate 90.0))
+   (pin P:EX59Y59D351 8 8.89 -3.81 (rotate 90.0))
+   (pin P:EX59Y59D351 9 8.89 3.81 (rotate 90.0))
+  )
+  (padstack '(Default)'
+   (shape
+    (circle Top 1.524)
+   )
+   (shape
+    (circle Bottom 1.524)
+   )
+  )
+  (padstack P:EX59Y59D351
+   (shape
+    (circle Top 1.5)
+   )
+   (shape
+    (circle Bottom 1.5)
+   )
+  )
+  (padstack P:SX59Y59D351
+   (shape
+    (rect Top -0.75 -0.75 0.75 0.75)
+   )
+   (shape
+    (rect Bottom -0.75 -0.75 0.75 0.75)
+   )
+  )
+  (padstack 'CCTVIA_(Default)'
+   (shape
+    (circle Top 1.016)
+   )
+   (shape
+    (circle Bottom 1.016)
+   )
+  )
+ )
+ (network
+  (net NET00000
+   (pins U2-16)
+   (rule (tjunction on))
+  )
+  (net NET00001
+   (pins U2-15)
+   (rule (tjunction on))
+  )
+  (net NET00002
+   (pins U2-14)
+   (rule (tjunction on))
+  )
+  (net NET00003
+   (pins U2-13)
+   (rule (tjunction on))
+  )
+  (net NET00004
+   (pins U2-12)
+   (rule (tjunction on))
+  )
+  (net NET00005
+   (pins U2-11)
+   (rule (tjunction on))
+  )
+  (net NET00006
+   (pins U2-10)
+   (rule (tjunction on))
+  )
+  (net NET00007
+   (pins U2-1)
+   (rule (tjunction on))
+  )
+  (net NET00008
+   (pins U2-2)
+   (rule (tjunction on))
+  )
+  (net NET00009
+   (pins U2-3)
+   (rule (tjunction on))
+  )
+  (net NET00010
+   (pins U2-4)
+   (rule (tjunction on))
+  )
+ )
+ (wiring
+  (wire
+   (path Top 0.254 699.77 1004.57 699.77 991.87)
+   (net NET00000)
+  )
+  (wire
+   (path Top 0.254 711.2 1016.0 711.2 998.22)
+   (net NET00002)
+  )
+  (wire
+   (path Top 0.254 702.31 1012.19 702.31 991.87)
+   (net NET00001)
+  )
+  (wire
+   (path Top 0.254 698.5 1016.0 702.31 1012.19)
+   (net NET00001)
+  )
+  (wire
+   (path Top 0.254 807.72 967.74 807.72 965.2)
+   (type route)
+  )
+  (wire
+   (path Top 0.254 807.72 977.9 807.72 972.82)
+   (type route)
+  )
+  (wire
+   (path Top 0.254 807.72 972.82 807.72 967.74)
+   (type route)
+  )
+  (wire
+   (path Top 0.254 688.34 1016.0 699.77 1004.57)
+   (net NET00000)
+  )
+  (wire
+   (path Top 0.254 711.2 998.22 704.85 991.87)
+   (net NET00002)
+  )
+  (via '(Default)' 688.34 1016.0
+   (via_number 1)
+   (net NET00000)
+   (type protect)
+  )
+  (via '(Default)' 698.5 1016.0
+   (via_number 1)
+   (net NET00001)
+   (type protect)
+  )
+  (via '(Default)' 711.2 1016.0
+   (via_number 1)
+   (net NET00002)
+   (type protect)
+  )
+  (via '(Default)' 721.36 1016.0
+   (via_number 1)
+   (net NET00003)
+   (type protect)
+  )
+  (via '(Default)' 734.06 1016.0
+   (via_number 1)
+   (net NET00004)
+   (type protect)
+  )
+  (via '(Default)' 744.22 993.14
+   (via_number 1)
+   (net NET00008)
+   (type protect)
+  )
+  (via '(Default)' 744.22 1008.38
+   (via_number 1)
+   (net NET00006)
+   (type protect)
+  )
+  (via '(Default)' 744.22 1016.0
+   (via_number 1)
+   (net NET00005)
+   (type protect)
+  )
+  (via '(Default)' 744.22 982.98
+   (via_number 1)
+   (net NET00009)
+   (type protect)
+  )
+  (via '(Default)' 746.76 975.36
+   (via_number 1)
+   (net NET00010)
+   (type protect)
+  )
+  (via '(Default)' 746.76 998.22
+   (via_number 1)
+   (net NET00007)
+   (type protect)
+  )
+ )
+)

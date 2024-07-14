@@ -1,0 +1,39 @@
+# Cadence Design Systems, Inc.
+# SPECCTRA ShapeBased Automation Software Automatic Router
+# SPECCTRA ShapeBased Automation Software V15.1 made 2003/11/17 at 23:03:32
+# Running on host 
+# 
+#            Command Line Parameters
+#            -----------------------
+# Design File Name : .\Untitled1.DSN
+# Initialization options:
+#   -do Untitled1.DO
+# Output File Name : C:\Program
+# Status File Name : .\monitor.sts
+# -noclean specified . Orphan shapes not removed.
+# -quit specified. Router will quit upon dofile completion.
+select_product  SPECCTRAQuest SI expert
+bestsave on $\best.w
+status_file $\progress.sts
+unit mm
+grid wire 2.540000 
+grid via 2.540000 
+rule pcb (width 0.254)
+bus diagonal
+route 50
+# smart_route (min_via_grid 2.54) (min_wire_grid 2.54) (auto_fanout on) (auto_fanout_via_share on) (auto_fanout_pin_share on) (auto_testpoint off) (auto_miter off)
+# ERROR: NOT EXECUTED
+clean 4
+route 50 16
+clean 4
+filter 5
+route 100 16
+clean 2
+delete conflicts
+write wire $\Untitled1.w
+spread 
+miter
+write wire $\Untitled1.m
+write session $\Untitled1.ses
+report status $\Untitled1.sts
+quit -c
